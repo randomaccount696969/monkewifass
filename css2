@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Sriracha';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/sriracha/v14/0nkrC9D4IuYBgWcI9ObY.ttf) format('truetype');
+}
